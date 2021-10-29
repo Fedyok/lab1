@@ -49,4 +49,3 @@ jobs:
       with:
         image: laba1
         registry: cr.yandex/crpg9q8s45a94mlu6opi
-
